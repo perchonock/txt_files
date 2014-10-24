@@ -16,14 +16,14 @@ class TestTextSplitter(TestCase):
         lst = ["a", "r", "c", "d", "e"]
         text = ".".join(lst)
         splitter = TextSplitter()
-        lst2 = splitter.split(text)
+        lst2 = splitter.split_into_words(text)
         self.assertTrue(lst == lst2, "you're wrong bitch!")
 
     def test_split_by_comma(self):
         lst = ["a", "r", "c", "d", "e"]
         text = ", ".join(lst)
         splitter = TextSplitter()
-        lst2 = splitter.split(text)
+        lst2 = splitter.split_into_words(text)
         self.assertTrue(lst == lst2, "you're wrong bitch!")
 
     def test_super_split(self):
@@ -36,5 +36,5 @@ class TestTextSplitter(TestCase):
             if(firstIndex != len(lst) - 1):
                 testString += delimeters[secondIndex]
         splitter = TextSplitter(delimeters)
-        lst2 = splitter.split(testString)
+        lst2 = splitter.split_into_words(testString)
         self.assertTrue(lst == lst2, str(lst2))
