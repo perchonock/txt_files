@@ -25,8 +25,8 @@ class FrequencyCounter:
 #             file_of_words.write(words)
         return words
 
-word_counter = FrequencyCounter()
-print(word_counter.count_words(list_of_words))
+# word_counter = FrequencyCounter()
+# print(word_counter.count_words(list_of_words))
 
 # file.close()
 # file_of_words.close()
