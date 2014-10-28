@@ -1,5 +1,5 @@
 from unittest import TestCase
-from Splitting_text_by_words import *
+from splitting_text_into_ngramms import *
 
 __author__ = 'adm'
 
