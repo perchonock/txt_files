@@ -1,0 +1,383 @@
+ 11ER 	 11th 
+ 1ER 	 1st 
+ 1ERE 	 1st 
+ 1e 	 1st 
+ 1er 	 1st 
+ 1ÈRE 	 1st 
+ 1ÉRE 	 1st 
+ 1èmes 	 1st 
+ 1ère 	 1st 
+ 1é 	 1st 
+ 1éme 	 1st 
+ 1ére 	 1st 
+ 2 EME 	 2nd 
+ 2 IÈME 	 2nd 
+ 2 e 	 2nd 
+ 2 ÈME 	 2nd 
+ 2 ème 	 2nd 
+ 2 é 	 2nd 
+ 20 EME 	 20th 
+ 20 EMES 	 20th 
+ 20 e 	 20th 
+ 20 é 	 20th 
+ 200 EME 	 200th 
+ 200 e 	 200th 
+ 200 ème 	 200th 
+ 200 éme 	 200th 
+ 2000 EME 	 2000th 
+ 2000 e 	 2000th 
+ 2000 ème 	 2000th 
+ 2000 éme 	 2000th 
+ 20000 ème 	 20000th 
+ 2000EME 	 2000th 
+ 2000eme 	 2000th 
+ 2000ème 	 2000th 
+ 2000éme 	 2000th 
+ 2001eme 	 2001st 
+ 2001éme 	 2001st 
+ 2009 e 	 2009th 
+ 200EME 	 200th 
+ 200eme 	 200th 
+ 200ème 	 200th 
+ 200é 	 200th 
+ 200éme 	 200th 
+ 201 ième 	 201st 
+ 202EME 	 202nd 
+ 204eme 	 204th 
+ 205 ème 	 205th 
+ 208 ème 	 208th 
+ 209 ème 	 209th 
+ 20e 	 20th 
+ 20eme 	 20th 
+ 20ème 	 20th 
+ 20ère 	 20th 
+ 20é 	 20th 
+ 20éme 	 20th 
+ 20émes 	 20th 
+ 21 EME 	 21st 
+ 21 e 	 21st 
+ 21 ÈME 	 21st 
+ 211 ème 	 211th 
+ 212 ème 	 212th 
+ 214 ème 	 214th 
+ 219 ème 	 219th 
+ 21EMES 	 21st 
+ 21ER 	 21st 
+ 21IEME 	 21st 
+ 21e 	 21st 
+ 21er 	 21st 
+ 21ème 	 21st 
+ 21èmes 	 21st 
+ 21é 	 21st 
+ 21éme 	 21st 
+ 22 EME 	 22nd 
+ 22 e 	 22nd 
+ 220 e 	 220th 
+ 220 ème 	 220th 
+ 2200 ième 	 2200th 
+ 220eme 	 220th 
+ 2212eme 	 2212th 
+ 221éme 	 221st 
+ 222 e 	 222nd 
+ 222eme 	 222nd 
+ 223 ème 	 223rd 
+ 223EME 	 223rd 
+ 224 e 	 224th 
+ 224eme 	 224th 
+ 226 ème 	 226th 
+ 2277 e 	 2277th 
+ 22EMES 	 22nd 
+ 22e 	 22nd 
+ 22er 	 22nd 
+ 22ème 	 22nd 
+ 22èmes 	 22nd 
+ 22é 	 22nd 
+ 22éme 	 22nd 
+ 23 EME 	 23rd 
+ 23 ER 	 23rd 
+ 23 e 	 23rd 
+ 230 ème 	 230th 
+ 230eme 	 230th 
+ 2315EME 	 2315th 
+ 231eme 	 231st 
+ 23586688 e 	 23586688th 
+ 235EME 	 235th 
+ 239 ème 	 239th 
+ 23EMES 	 23rd 
+ 23ème 	 23rd 
+ 23èmes 	 23rd 
+ 23é 	 23rd 
+ 23éme 	 23rd 
+ 23émes 	 23rd 
+ 24 EME 	 24th 
+ 24 e 	 24th 
+ 24 ÈME 	 24th 
+ 240 ème 	 240th 
+ 240EME 	 240th 
+ 24ÈME 	 24th 
+ 24ème 	 24th 
+ 24èmes 	 24th 
+ 24é 	 24th 
+ 24éme 	 24th 
+ 24émes 	 24th 
+ 25 EME 	 25th 
+ 25 e 	 25th 
+ 250 e 	 250th 
+ 250 ème 	 250th 
+ 250 éme 	 250th 
+ 2500 ème 	 2500th 
+ 250000 éme 	 250000th 
+ 250000EME 	 250000th 
+ 25000EME 	 25000th 
+ 2500EME 	 2500th 
+ 2502EME 	 2502nd 
+ 250EME 	 250th 
+ 250eme 	 250th 
+ 250éme 	 250th 
+ 2534 ème 	 2534th 
+ 2543 ème 	 2543rd 
+ 257EME 	 257th 
+ 25EMES 	 25th 
+ 25IEME 	 25th 
+ 25e 	 25th 
+ 25eme 	 25th 
+ 25ÈME 	 25th 
+ 25ème 	 25th 
+ 25èmes 	 25th 
+ 25é 	 25th 
+ 25éme 	 25th 
+ 26 EME 	 26th 
+ 26 e 	 26th 
+ 262 ème 	 262nd 
+ 264EME 	 264th 
+ 265 ième 	 265th 
+ 265èmes 	 265th 
+ 265éme 	 265th 
+ 266 ème 	 266th 
+ 266EME 	 266th 
+ 266éme 	 266th 
+ 268EME 	 268th 
+ 26EMES 	 26th 
+ 26ÈMES 	 26th 
+ 26èmes 	 26th 
+ 26é 	 26th 
+ 26éme 	 26th 
+ 27 EME 	 27th 
+ 27 e 	 27th 
+ 27 ème 	 27th 
+ 274EME 	 274th 
+ 276 ème 	 276th 
+ 27EMES 	 27th 
+ 27ème 	 27th 
+ 27èmes 	 27th 
+ 27é 	 27th 
+ 27éme 	 27th 
+ 28 EME 	 28th 
+ 28 e 	 28th 
+ 280 ème 	 280th 
+ 283 ème 	 283rd 
+ 288EME 	 288th 
+ 28EMES 	 28th 
+ 28e 	 28th 
+ 28ÈME 	 28th 
+ 28ème 	 28th 
+ 28èmes 	 28th 
+ 28éme 	 28th 
+ 29 EME 	 29th 
+ 29 ER 	 29th 
+ 29 e 	 29th 
+ 29 ème 	 29th 
+ 291eme 	 291st 
+ 296éme 	 296th 
+ 297 ème 	 297th 
+ 297EME 	 297th 
+ 298éme 	 298th 
+ 29EMES 	 29th 
+ 29IEME 	 29th 
+ 29er 	 29th 
+ 29ème 	 29th 
+ 29èmes 	 29th 
+ 29é 	 29th 
+ 29éme 	 29th 
+ 2EME 	 2nd 
+ 2EMES 	 2nd 
+ 2ER 	 2nd 
+ 2ERE 	 2nd 
+ 2IEME 	 2nd 
+ 2e 	 2nd 
+ 2eme 	 2nd 
+ 2er 	 2nd 
+ 2ieme 	 2nd 
+ 2ÈME 	 2nd 
+ 2ÈMES 	 2nd 
+ 2ème 	 2nd 
+ 2ère 	 2nd 
+ 2é 	 2nd 
+ 2éme 	 2nd 
+ 2émes 	 2nd 
+ 2ére 	 2nd 
+ 3 EME 	 3rd 
+ 3 e 	 3rd 
+ 3 é 	 3rd 
+ 30 EME 	 30th 
+ 30 e 	 30th 
+ 300 EME 	 300th 
+ 300 e 	 300th 
+ 300 ième 	 300th 
+ 300 ème 	 300th 
+ 3000 e 	 3000th 
+ 3000 ème 	 3000th 
+ 3000000EME 	 3000000th 
+ 3000EME 	 3000th 
+ 3000eme 	 3000th 
+ 300EME 	 300th 
+ 300eme 	 300th 
+ 300èmes 	 300th 
+ 3015EME 	 3015th 
+ 302 ème 	 302nd 
+ 302EME 	 302nd 
+ 305ème 	 305th 
+ 309eme 	 309th 
+ 30EME 	 30th 
+ 30ÈME 	 30th 
+ 30ème 	 30th 
+ 30é 	 30th 
+ 30éme 	 30th 
+ 31 EME 	 31st 
+ 31 e 	 31st 
+ 311EME 	 311th 
+ 317EME 	 317th 
+ 317e 	 317th 
+ 317ème 	 317th 
+ 319éme 	 319th 
+ 31EMES 	 31st 
+ 31e 	 31st 
+ 31ème 	 31st 
+ 31èmes 	 31st 
+ 31ère 	 31st 
+ 31éme 	 31st 
+ 32 EME 	 32nd 
+ 32 EMES 	 32nd 
+ 32 e 	 32nd 
+ 32 ÈMES 	 32nd 
+ 32 ème 	 32nd 
+ 322EME 	 322nd 
+ 325EME 	 325th 
+ 328 ème 	 328th 
+ 329EME 	 329th 
+ 32EMES 	 32nd 
+ 32ÈME 	 32nd 
+ 32ème 	 32nd 
+ 32èmes 	 32nd 
+ 32é 	 32nd 
+ 32éme 	 32nd 
+ 32émes 	 32nd 
+ 33 EME 	 33rd 
+ 33 e 	 33rd 
+ 330 ème 	 330th 
+ 331 ème 	 331st 
+ 331éme 	 331st 
+ 337EME 	 337th 
+ 33EME 	 33rd 
+ 33EMES 	 33rd 
+ 33e 	 33rd 
+ 33eme 	 33rd 
+ 33ème 	 33rd 
+ 33èmes 	 33rd 
+ 33é 	 33rd 
+ 33éme 	 33rd 
+ 34 EME 	 34th 
+ 34 e 	 34th 
+ 342EME 	 342nd 
+ 34ème 	 34th 
+ 34èmes 	 34th 
+ 34é 	 34th 
+ 34éme 	 34th 
+ 35 EME 	 35th 
+ 35 e 	 35th 
+ 350 ème 	 350th 
+ 350EME 	 350th 
+ 350eme 	 350th 
+ 352eme 	 352nd 
+ 356EME 	 356th 
+ 35EME 	 35th 
+ 35EMES 	 35th 
+ 35ÈME 	 35th 
+ 35ème 	 35th 
+ 35èmes 	 35th 
+ 35éme 	 35th 
+ 36 EME 	 36th 
+ 36 e 	 36th 
+ 363 ème 	 363rd 
+ 364 ème 	 364th 
+ 36528 ème 	 36528th 
+ 366eme 	 366th 
+ 36EMES 	 36th 
+ 36ème 	 36th 
+ 36èmes 	 36th 
+ 36é 	 36th 
+ 36éme 	 36th 
+ 37 EME 	 37th 
+ 372 ème 	 372nd 
+ 372eme 	 372nd 
+ 373 e 	 373rd 
+ 378EME 	 378th 
+ 37ÈME 	 37th 
+ 37ème 	 37th 
+ 37èmes 	 37th 
+ 37éme 	 37th 
+ 37émes 	 37th 
+ 38 EME 	 38th 
+ 38 EMES 	 38th 
+ 38 e 	 38th 
+ 38 é 	 38th 
+ 38EMES 	 38th 
+ 38ème 	 38th 
+ 38èmes 	 38th 
+ 38éme 	 38th 
+ 39 EME 	 39th 
+ 39 e 	 39th 
+ 391 ème 	 391st 
+ 39EMES 	 39th 
+ 39ème 	 39th 
+ 39èmes 	 39th 
+ 39éme 	 39th 
+ 3ERE 	 3rd 
+ 3IEME 	 3rd 
+ 3e 	 3rd 
+ 3eme 	 3rd 
+ 3er 	 3rd 
+ 3ÈME 	 3rd 
+ 3ème 	 3rd 
+ 3èmes 	 3rd 
+ 3ère 	 3rd 
+ 3é 	 3rd 
+ 3éme 	 3rd 
+ 4 EME 	 4th 
+ 4 ER 	 4th 
+ 4 e 	 4th 
+ 4 ÈME 	 4th 
+ 40 EME 	 40th 
+ 40 e 	 40th 
+ 40 ème 	 40th 
+ 40 é 	 40th 
+ 400 e 	 400th 
+ 400 ème 	 400th 
+ 4000 e 	 4000th 
+ 4000 ème 	 4000th 
+ 4000eme 	 4000th 
+ 400EME 	 400th 
+ 400e 	 400th 
+ 400eme 	 400th 
+ 400éme 	 400th 
+ 401EME 	 401st 
+ 402EME 	 402nd 
+ 402eme 	 402nd 
+ 405EME 	 405th 
+ 408 ème 	 408th 
+ 409 e 	 409th 
+ 40IEME 	 40th 
+ 40e 	 40th 
+ 40eme 	 40th 
+ 40ÈME 	 40th 
+ 40ème 	 40th 

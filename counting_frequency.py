@@ -2,8 +2,8 @@ __author__ = 'YKolotolova'
 
 from splitting_text_into_ngramms import *
 
-file = open("test_en.txt", 'r')
-#file_of_words = open("list_of_words.txt", 'w')
+file = open("h.txt", 'r', encoding='utf-8')
+file_of_words = open("list_of_words.txt", 'w', encoding='utf-8')
 text = file.read()
 
 splitter = TextSplitter()
@@ -31,13 +31,18 @@ class FrequencyCounter:
             words += key_value[0] + " " + str(key_value[1]) + "\n"
         return words
 
+    def sort_by_alph(self, dict_of_words):
+        words = ''
+        for key_value in sorted(dict_of_words.items()):
+            words += key_value[0] + " " + str(key_value[1]) + "\n"
+        return words
 
 word_counter = FrequencyCounter()
 dict = word_counter.count_words(list_of_words)
-#print(word_counter.sort_by_frequency(dict))
+print(word_counter.sort_by_alph(dict))
 
 file.close()
-#file_of_words.close()
+file_of_words.close()
 
 
 def foreach(collection, function):
