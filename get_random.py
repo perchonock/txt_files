@@ -11,8 +11,8 @@ import random
 
 #in_file = sys.argv[1]
 #n = int(sys.argv[2])
-in_file = 'goodmorning.txt'
-n = 500
+in_file = 'vtb_requests.txt'
+n = 10000
 
 inf = open(in_file, "r", encoding='utf8')
 ouf = open(re.sub("\.txt", "", in_file) + "_random" + str(n) + ".txt", 'w', encoding='utf8')
